@@ -1,0 +1,49 @@
+@charset "UTF-8";
+
+
+ body{
+        background-image: url('541bebfe5d28771a061f19a1d6d9f2ea.jpg');
+        background-repeat:no-repeat;
+        background-size: cover;
+        background-attachment: fixed;
+        font-family: "Comic Sans MS";
+    }
+
+    h1 {
+        font-weight: bold;
+        font-size: 1.2em;
+        margin:auto;
+        background-color:green;
+        width: 200px;
+        margin-bottom: 30px;
+        text-align: center;
+        border: 23px solid;
+        border-radius: 100px;
+        
+        border-image-source: url('coj.png');
+        border-image-repeat: none;
+        border-image-slice: 27;
+        font-family:  "Comic Sans MS";
+    
+      
+      
+    }
+    
+    
+    article{
+        background-color:rgba(7, 255, 28, 0.233);
+        margin:auto;
+        width: 286px;
+        text-align: center ;
+        border: solid ;
+    
+        border-radius: 75px;
+        
+        font-size: 13px;
+        font-weight: normal;
+        font-family: "Comic Sans MS";
+    }
+    
+    
+
+
