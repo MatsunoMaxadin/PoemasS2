@@ -7,8 +7,15 @@
 
 @media (max-width: 480px) {
     body {
-        background-image: url('saturno.jpg');
+        background-image: url('397992a7be7ec1535fff81ea269f8cd7.jpg');
     }
+}
+body{
+    
+    background-repeat:no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    
 }
 
 h1 {
