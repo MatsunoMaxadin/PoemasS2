@@ -1,8 +1,18 @@
 @charset "UTF-8";
+@media (min-width: 481px) {
+    body {
+        background-image: url('541bebfe5d28771a061f19a1d6d9f2ea.jpg');
+   }
+}
+
+@media (max-width: 480px) {
+    body {
+        background-image: url('coruja2.jpg');
+    }
+}
 
 
  body{
-        background-image: url('541bebfe5d28771a061f19a1d6d9f2ea.jpg');
         background-repeat:no-repeat;
         background-size: cover;
         background-attachment: fixed;
