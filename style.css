@@ -34,7 +34,8 @@ pre {
 
 }
 
-article{
+
+.dentro{
     background-color:rgb(83, 255, 255);
     margin:auto;
     width: 286px;
