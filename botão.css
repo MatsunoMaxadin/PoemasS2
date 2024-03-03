@@ -95,4 +95,20 @@ span{
 
 }
 
+.b4{
+    color:black;
+    background-color: rgb(63, 66, 226);
+    width: 300px;
+    height: 100px;
+    text-align: center;
+    margin: auto;
+
+
+
+    font-family: 'Poppins', sans-serif;
+    border: 2px solid;
+    border-radius: 100px;
+
+}
+
 
